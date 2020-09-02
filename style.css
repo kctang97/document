@@ -23,7 +23,7 @@ p{
 }
 
 img {
-
+  display: block;
   text-align: center;
   margin: 0 0 0 700px;
 }
