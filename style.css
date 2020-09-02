@@ -1,7 +1,5 @@
 html, body {
   height: 100%;
-  margin: 0;
-  padding: 0;
 }
 
 
@@ -22,16 +20,9 @@ p{
 }
 
 img {
-  display: block;
-  text-align: center;
-  margin: 0 0 0 700px;
-}
-/*
-img {
   width: 25%;
-  padding-left: 38%;
-  padding-right: 25%;
-} */
+  margin: 0 0 0 710px;
+}
 
 iframeVideo{
   width: 100%;
