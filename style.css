@@ -18,12 +18,14 @@ h2{
 
 h3{
   text-align: center;
+  padding: 0;
   font-size: 20px;
 }
 
 p{
   text-align: center;
   font-size: 20px;
+  line-height: 0;
 }
 
 iframe {
