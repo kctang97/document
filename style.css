@@ -28,5 +28,12 @@ img {
 }
 
 iframeVideo{
+  width: 90%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+iframe {
+  text-align: center;
   width: 100%;
 }
